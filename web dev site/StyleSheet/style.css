@@ -1,0 +1,117 @@
+/*Common CSS-------------------------------------*/
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+body{
+    
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 2em;
+    color: black;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 20px;;
+    color: black;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 17px;;
+    color: black;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 15px;;
+    color: black;
+}
+
+
+/*Header CSS---------------------------------------*/
+
+header{
+    
+}
+
+header h1{
+  
+}
+
+header object{
+  
+}
+
+/*Nav CSS-------------------------------------------*/
+
+nav{
+    
+}
+
+nav ol{
+    color: black;
+}
+
+nav li{
+    
+}
+
+nav li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 1em;
+    color:hsl(0,0%,0%);
+}
+
+
+
+/*index.html CSS------------------------------------*/
+
+#mainContent{
+    
+}
+
+#highlights{
+    
+}
+
+#attractions{
+    
+}
+
+#events{
+        
+}
+
+#promotions{
+    
+}
+
+
+
+/*attractions.html CSS------------------------------------*/
+
+
+
+/*Ticketing.html CSS------------------------------------*/
